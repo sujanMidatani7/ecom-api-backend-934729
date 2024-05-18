@@ -4,12 +4,20 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
-- [Running Tests](#running-tests)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+- [Prerequisites](#Prerequisites)
+- [Clone the Repository](#Clone-the-Repository)
+- [Create a Virtual Environment](#Create-a-Virtual-Environment)
+- [Activate the Virtual Environment](#Activate-the-Virtual-Environment)
+- [Install the Required Dependencies](#Install-the-Required-Dependencies)
+- [Create a .env file in the root directory and add the following variables:](#Create-a-.env-file-in-the-root-directory-and-add-the-following-variables)
+- [Run the Application](#Run-the-Application)
+- [API Endpoints](#API-Endpoints)
+- [Running Tests](#Running-Tests)
+- [My Intuition for this task](#My-Intuition-for-this-task)
+- [My assumptions](#My-assumptions)
+
+
+
 
 ## Introduction
 This project is a backend application built with FastAPI. It allows users to upload and retrieve files through a RESTful API via proper encryption of [fernet](https://cryptography.io/en/latest/fernet/)
