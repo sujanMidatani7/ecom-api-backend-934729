@@ -36,8 +36,8 @@ To get started with the project, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/sujanmidatani7/yourproject.git
-cd yourproject
+git clone https://github.com/sujanMidatani7/ecom-api-backend-934729.git
+cd ecom-api-backend-934729
 ```
 ### Create a Virtual Environment
 ```bash
